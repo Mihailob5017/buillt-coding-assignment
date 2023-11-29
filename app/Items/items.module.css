@@ -1,0 +1,30 @@
+.items_grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+	grid-gap: 1rem;
+	margin: 1rem;
+	/* make it fit for the rest of the screen */
+	height: 80vh;
+}
+
+.items_header {
+	margin: 10px 0;
+	margin-left: 16px;
+	height: fit-content;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.items_header p:first-child {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0;
+	margin-right: 10px;
+}
+
+.items_header p:last-child {
+	font-size: 15px;
+	color: black;
+	margin: 0;
+	opacity: 50%;
+}

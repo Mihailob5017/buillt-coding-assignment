@@ -1,0 +1,150 @@
+/* styles.css */
+
+.item_wrapper {
+	/* Add styles for item wrapper */
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	height: 180px;
+	margin-bottom: 10px;
+	padding: 10px 0;
+	border-bottom: 1px solid #979797;
+}
+
+.item_image {
+	width: 143px;
+	height: 143px;
+	margin: 0;
+	padding: 0;
+	background-color: lightgrey;
+
+	/* Add styles for item image */
+}
+
+.info_wrapper {
+	flex: 1;
+	width: 100%;
+	height: 143px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	/* Add styles for info wrapper */
+}
+
+.item_desc {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-left: 20px;
+	/* Add styles for item description */
+}
+
+.item_name {
+	/* Add styles for item name */
+	padding: 0;
+	font-size: 18px;
+	color: #313337;
+	margin: 0;
+}
+
+.item_weight {
+	margin: 0;
+	/* Add styles for item weight */
+}
+
+.item_quantity_wrapper {
+	display: flex;
+	margin: 15px 0;
+	height: 12px;
+	flex-direction: row;
+	align-items: flex-start;
+
+	/* Add styles for item quantity wrapper */
+}
+.item_quantity_buttons_wrapper {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	width: 60px;
+	border: 1px solid #000000;
+	border-radius: 15px;
+	padding: 2.5px 5px;
+}
+
+.item_quantity_button {
+	border: none;
+	font-size: 15px;
+	background-color: transparent;
+
+	/* Add styles for item quantity button */
+}
+
+.item_quantity {
+	margin: 0;
+	padding: 0;
+	font-size: 15px;
+	/* Add styles for item quantity */
+}
+
+.item_quantity_button:hover {
+	cursor: pointer;
+}
+
+.item_remove {
+	margin-top: 2px;
+	margin-left: 10px;
+	text-decoration: underline;
+	font-size: 16px;
+	padding: 0;
+	/* Add styles for item remove */
+}
+
+.item_remove:hover {
+	cursor: pointer;
+}
+
+.item_price_wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+.item_price {
+	font-size: 24px;
+	margin: 0;
+	margin-bottom: 0;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+}
+
+.item_price label:first-child {
+	font-size: 24px;
+	margin-right: 5px;
+}
+
+.item_price label:last-child {
+	font-size: 14px;
+	font-weight: lighter;
+}
+
+.old_item_price {
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	color: orangered;
+}
+
+.old_item_price label:first-child {
+	font-weight: lighter;
+	text-decoration: line-through;
+	margin-right: 5px;
+	font-size: 17px;
+}
+
+.old_item_price label:last-child {
+	font-size: 12px;
+	font-weight: lighter;
+}

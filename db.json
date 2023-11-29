@@ -1,0 +1,122 @@
+{
+	"items": [
+		{
+			"id": "a1b2c3",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"weight": "1000g",
+			"oldPrice": 800,
+			"image": ""
+		},
+		{
+			"id": "d4e5f6",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"weight": "250g",
+			"oldPrice": 1500,
+			"image": ""
+		},
+		{
+			"id": "g7h8i9",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"weight": "1500g",
+			"oldPrice": 700,
+			"image": ""
+		},
+		{
+			"id": "j0k1l2",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"weight": "100ml",
+			"image": ""
+		},
+		{
+			"id": "m3n4o5",
+			"name": "Kikriki puter",
+			"price": 564,
+			"weight": "100ml",
+			"image": ""
+		},
+		{
+			"id": "p6q7r8",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"oldPrice": 900,
+			"weight": "500ml",
+			"image": ""
+		},
+		{
+			"id": "s9t0u1",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"weight": "150g",
+			"image": ""
+		},
+		{
+			"id": "v2w3x4",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"weight": "500ml",
+			"price": 564,
+			"image": ""
+		},
+		{
+			"id": "y5z6a7",
+			"name": "Kikriki puter",
+			"price": 564,
+			"weight": "500ml",
+			"image": ""
+		},
+		{
+			"id": "b8c9d0",
+			"name": "Kikriki puter",
+			"weight": "500g",
+			"price": 564,
+			"oldPrice": 1250,
+			"image": ""
+		},
+		{
+			"id": "e1f2g3",
+			"name": "Kikriki puter",
+			"weight": "500g",
+			"price": 564,
+			"image": ""
+		},
+		{
+			"id": "h4i5j6",
+			"name": "Kikriki puter",
+			"price": 564,
+			"image": "",
+			"weight": "500g"
+		},
+		{
+			"id": "k7l8m9",
+			"weight": "500g",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"image": ""
+		},
+		{
+			"id": "n0o1p2",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"weight": "500g",
+			"image": ""
+		},
+		{
+			"id": "q3r4s5",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"weight": "500g",
+			"price": 564,
+
+			"image": ""
+		},
+		{
+			"id": "t6u7v8",
+			"weight": "500g",
+			"name": "Naturela sa Rogačem i Agava Šećerom",
+			"price": 564,
+			"image": ""
+		}
+	]
+}
