@@ -1,4 +1,6 @@
 Note: I have used grey boxes instead of images, due to not having the option to host them.
+
+
 Steps to reproduce
 
 1.Run npm install to install all the dependencies
